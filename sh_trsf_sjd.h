@@ -12,7 +12,7 @@
 #define HEADER 0xAA
 #define TAIL 0xDD
 #define FE 0xFE
-#define SH_TRSF_SJD "16"
+#define SH_TRSF_SJD "8"
 typedef struct DataFrame {
 	//³¤¶È(2×Ö½Ú)
 	int len;
